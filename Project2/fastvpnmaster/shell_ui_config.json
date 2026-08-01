@@ -2,7 +2,7 @@
   "tabs": [
     {
       "key": "vpn",
-      "enabled": true,
+      "enabled": false,
       "order": 0
     },
     {
