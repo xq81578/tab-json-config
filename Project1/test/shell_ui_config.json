@@ -17,6 +17,12 @@
                      "titleKey":  "shell_tab_feature_two",
                      "enabled":  true,
                      "order":  2
+                 },
+                 {
+                     "key":  "protection",
+                     "titleKey":  "shell_tab_protection",
+                     "enabled":  true,
+                     "order":  3
                  }
              ]
 }
