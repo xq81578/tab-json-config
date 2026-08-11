@@ -17,6 +17,24 @@
                      "titleKey":  "shell_tab_feature_two",
                      "enabled":  true,
                      "order":  2
+                 },
+                 {
+                     "key":  "protection",
+                     "titleKey":  "shell_tab_protection",
+                     "enabled":  true,
+                     "order":  3
+                 },
+                 {
+                     "key":  "vpn_node",
+                     "titleKey":  "shell_tab_vpn_node",
+                     "enabled":  false,
+                     "order":  4
+                 },
+                 {
+                     "key":  "vpn_account",
+                     "titleKey":  "shell_tab_vpn_account",
+                     "enabled":  false,
+                     "order":  5
                  }
              ]
 }
