@@ -1,0 +1,40 @@
+{
+    "tabs":  [
+                 {
+                     "key":  "vpn",
+                     "titleKey":  "shell_tab_vpn",
+                     "enabled":  false,
+                     "order":  0
+                 },
+                 {
+                     "key":  "feature_one",
+                     "titleKey":  "shell_tab_feature_one",
+                     "enabled":  true,
+                     "order":  1
+                 },
+                 {
+                     "key":  "feature_two",
+                     "titleKey":  "shell_tab_feature_two",
+                     "enabled":  true,
+                     "order":  2
+                 },
+                 {
+                     "key":  "protection",
+                     "titleKey":  "shell_tab_protection",
+                     "enabled":  true,
+                     "order":  3
+                 },
+                 {
+                     "key":  "vpn_node",
+                     "titleKey":  "shell_tab_vpn_node",
+                     "enabled":  false,
+                     "order":  4
+                 },
+                 {
+                     "key":  "vpn_account",
+                     "titleKey":  "shell_tab_vpn_account",
+                     "enabled":  true,
+                     "order":  5
+                 }
+             ]
+}
