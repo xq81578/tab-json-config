@@ -3,7 +3,7 @@
                  {
                      "key":  "vpn",
                      "titleKey":  "shell_tab_vpn",
-                     "enabled":  false,
+                     "enabled":  true,
                      "order":  0
                  },
                  {
@@ -27,13 +27,13 @@
                  {
                      "key":  "vpn_node",
                      "titleKey":  "shell_tab_vpn_node",
-                     "enabled":  false,
+                     "enabled":  true,
                      "order":  4
                  },
                  {
                      "key":  "vpn_account",
                      "titleKey":  "shell_tab_vpn_account",
-                     "enabled":  false,
+                     "enabled":  true,
                      "order":  5
                  }
              ]
